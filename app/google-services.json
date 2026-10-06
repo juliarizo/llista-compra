@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749318218530",
+    "project_id": "llista-compra-d247d",
+    "storage_bucket": "llista-compra-d247d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749318218530:android:e23b3746ba55e9089fbb7b",
+        "android_client_info": {
+          "package_name": "com.example.llistadelacompra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChgvxL4tcBzCt4gWY549irZ4mLuB5aXvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
